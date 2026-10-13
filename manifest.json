@@ -1,0 +1,9 @@
+{
+  "name": "Italian Vocabulary Trainer",
+  "short_name": "Italian Trainer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0f766e",
+  "description": "Practice English to Italian vocabulary in 20-word sessions."
+}
